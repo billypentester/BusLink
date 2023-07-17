@@ -1,0 +1,29 @@
+.img{
+  background-image: url("./../images/login.jpg");
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.img2{
+  background-image: url("./../images/login.jpg");
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.img3{
+  background-image: url("./../images/login.jpg");
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+
+
+tr,table,th{
+  text-align: center;
+}
